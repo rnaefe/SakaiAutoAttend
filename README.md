@@ -7,6 +7,7 @@
 - **Automatic login**: Logs in to the Sakai platform without manual intervention.
 - **Class entry**: Automatically joins scheduled online classes.
 - **Customizable**: Can be adjusted to suit specific class schedules and user preferences.
+- **Telegram Bot**: Sends notifications to your Telegram when classes start and end.
 
 ## Installation
 
@@ -20,7 +21,7 @@
    npm install
    ```
 
-3. Configure your class data in `ders.json`.
+3. Configure your class data and Telegram bot in `ders.json`.
 
 ## Usage
 
