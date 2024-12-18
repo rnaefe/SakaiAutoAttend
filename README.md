@@ -1,8 +1,5 @@
 # Sakai Auto Attend
 
-## Credit
-**@CTimurSefergil** Thanks for 
-
 ## Overview
 **Sakai Auto Class** is an automation bot designed to help students at Dokuz Eylul University (DEU) join their online classes automatically. This tool simplifies the process of logging into Sakai and attending virtual classes by automating repetitive tasks.
 
