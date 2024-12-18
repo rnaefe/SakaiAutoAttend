@@ -1,7 +1,3 @@
-Here's a README suggestion for the **sakai-auto-class** repository:
-
----
-
 # Sakai Auto Class
 
 ## Overview
@@ -37,5 +33,3 @@ Ensure that you have properly configured your login and class schedule details i
 
 ## License
 This project is licensed under the [Unlicense](LICENSE).
-
----
