@@ -1,0 +1,33 @@
+{
+
+    "telegram_bot_token": "TELEGRAM BOT TOKEN",
+    "chatId": "TELEGRAM CHAT ID",
+
+    "kullaniciAdi": "SAKAI USERNAME",
+    "sifre": "SAKAI PASSWORD",
+
+    "dersler": [
+        {
+            "derslink": "https://online.deu.edu.tr/portal/site/0fa4d4b7-6cb2-4774-8c/tool/d6b769020673a",
+            "dersadi": "MAT 1001",
+            "derssaati": "09:18",
+            "dersbitissaat": "10:20",
+            "gunler": ["pazartesi", "çarşamba", "cuma"]
+        },
+        {
+            "derslink": "https://online.deu.edu.tr/portal/site/72f9c5818585909e/tool/b66eb215f8b",
+            "dersadi": "MAT 2",
+            "derssaati": "14:55",
+            "dersbitissaat": "15:55",
+            "gunler": ["salı", "perşembe"]
+        },
+
+        {
+            "derslink": "DERS LINKI",
+            "dersadi": "DERS ISMI",
+            "derssaati": "BOTUN BAGLANACIGI SAAT VE DAKIKA - 15:35 ",
+            "dersbitissaat": "BOTUN DERSI KAPATACAGI SAAT VE DAKIKA - 16:35",
+            "gunler": ["DERS GUNU"]
+        }
+    ]
+}

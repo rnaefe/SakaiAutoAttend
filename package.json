@@ -1,0 +1,18 @@
+{
+  "name": "auto_sakai",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "npm install selenium-webdriver node-schedule fs node-telegram-bot-api",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "ronin",
+  "license": "ISC",
+  "description": "Simple script to check your online classes on Sakai",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
