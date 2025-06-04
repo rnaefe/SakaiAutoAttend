@@ -37,3 +37,6 @@ Ensure that you have properly configured your login and class schedule details i
 
 ## License
 This project is licensed under the [Unlicense](LICENSE).
+
+## Contact
+You can contact me on my website: https://daglarefe.com
